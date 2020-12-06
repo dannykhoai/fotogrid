@@ -2,6 +2,7 @@ import  React from 'react';
 import useFirestore from '../hooks/useFirestore';
 import { motion } from 'framer-motion';
 
+
 const ImageGrid = ({ setSelectedImg }) => {
     const { docs } = useFirestore('images');
 
@@ -18,6 +19,7 @@ const ImageGrid = ({ setSelectedImg }) => {
                         animate=    {{opacity: 1}} 
                         transition= {{delay: 1}}
                  />
+                 { <img className="avatar" src={doc.photoURL || 'https://api.adorable.io/avatars/23/abott@adorable.png'} /> }
                 </motion.div>
             ))}
         </div>

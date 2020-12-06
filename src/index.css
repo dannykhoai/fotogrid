@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
 
 :root{
-  --primary: #efb6b2;
+  --primary: #e68bde;
   --secondary: #4e4e4e;
   --error: #ff4a4a;
 }
@@ -15,6 +15,8 @@ body{
   max-width: 960px;
   margin: 0 auto;
 }
+
+
 .title h1{
   color: var(--primary);
   font-size: 1.2rem;
@@ -86,7 +88,7 @@ label:hover{
   position: relative;
   opacity: 0.8;
 }
-.img-wrap img{
+.img-wrap img:not(.avatar){
   min-width: 100%;
   min-height: 100%;
   max-width: 150%;
@@ -94,6 +96,46 @@ label:hover{
   top: 0%;
   left: 0%;
 }
+.avatar{
+  max-width:10%;
+  border-radius: 50%;
+  border:2px solid #58d648;
+  margin: 5px 5px;
+  top: 1%;
+  left: 1%;
+  position: absolute;
+}
+/* Check auth buttons */
+
+.sign-in{
+  position: absolute;
+  color: var(--secondary);
+  background: var(--primary);
+  margin: 20px auto;
+  top: 0;
+  right: 2vw ;
+}
+  /*right: calc(50% - 480px);}*/
+
+.sign-in:hover{
+    background: white;
+    color: var(--primary);}
+
+.sign-out{
+  position: fixed;
+  color: var(--secondary);
+  background: var(--primary);
+  margin: 20px auto;
+  top: 0;
+  right: 2vw ;}
+
+  
+  
+
+
+.sign-out:hover{
+  background: white;
+  color: var(--primary);}
 
 /* zoom styles */
 .backdrop{
