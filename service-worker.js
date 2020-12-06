@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fotogrid/precache-manifest.67d7abc8690c851655616b9f8e0f7d88.js"
+  "/fotogrid/precache-manifest.c07a5c9db5da310bb28c98e544d04f2a.js"
 );
 
 self.addEventListener('message', (event) => {
