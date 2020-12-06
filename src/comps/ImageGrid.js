@@ -19,7 +19,11 @@ const ImageGrid = ({ setSelectedImg }) => {
                         animate=    {{opacity: 1}} 
                         transition= {{delay: 1}}
                  />
-                 { <img className="avatar" alt="uploader avatar" src={doc.photoURL || 'https://api.adorable.io/avatars/23/abott@adorable.png'} /> }
+                 <motion.img className="avatar" alt="uploader avatar" src={doc.photoURL || 'https://api.adorable.io/avatars/23/abott@adorable.png'} 
+                        initial=    {{opacity: 0}}
+                        animate=    {{opacity: 1}} 
+                        transition= {{delay: 2}}
+                 />
                 </motion.div>
             ))}
         </div>
