@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fotogrid/static/css/main.a66de6be.chunk.css",
-    "main.js": "/fotogrid/static/js/main.95f0d9ae.chunk.js",
-    "main.js.map": "/fotogrid/static/js/main.95f0d9ae.chunk.js.map",
+    "main.css": "/fotogrid/static/css/main.e287170f.chunk.css",
+    "main.js": "/fotogrid/static/js/main.c0da5cb7.chunk.js",
+    "main.js.map": "/fotogrid/static/js/main.c0da5cb7.chunk.js.map",
     "runtime-main.js": "/fotogrid/static/js/runtime-main.a9eb4604.js",
     "runtime-main.js.map": "/fotogrid/static/js/runtime-main.a9eb4604.js.map",
-    "static/js/2.b9a1f27f.chunk.js": "/fotogrid/static/js/2.b9a1f27f.chunk.js",
-    "static/js/2.b9a1f27f.chunk.js.map": "/fotogrid/static/js/2.b9a1f27f.chunk.js.map",
+    "static/js/2.1fb53dad.chunk.js": "/fotogrid/static/js/2.1fb53dad.chunk.js",
+    "static/js/2.1fb53dad.chunk.js.map": "/fotogrid/static/js/2.1fb53dad.chunk.js.map",
     "index.html": "/fotogrid/index.html",
-    "precache-manifest.67d7abc8690c851655616b9f8e0f7d88.js": "/fotogrid/precache-manifest.67d7abc8690c851655616b9f8e0f7d88.js",
+    "precache-manifest.c07a5c9db5da310bb28c98e544d04f2a.js": "/fotogrid/precache-manifest.c07a5c9db5da310bb28c98e544d04f2a.js",
     "service-worker.js": "/fotogrid/service-worker.js",
-    "static/css/main.a66de6be.chunk.css.map": "/fotogrid/static/css/main.a66de6be.chunk.css.map",
-    "static/js/2.b9a1f27f.chunk.js.LICENSE.txt": "/fotogrid/static/js/2.b9a1f27f.chunk.js.LICENSE.txt"
+    "static/css/main.e287170f.chunk.css.map": "/fotogrid/static/css/main.e287170f.chunk.css.map",
+    "static/js/2.1fb53dad.chunk.js.LICENSE.txt": "/fotogrid/static/js/2.1fb53dad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9eb4604.js",
-    "static/js/2.b9a1f27f.chunk.js",
-    "static/css/main.a66de6be.chunk.css",
-    "static/js/main.95f0d9ae.chunk.js"
+    "static/js/2.1fb53dad.chunk.js",
+    "static/css/main.e287170f.chunk.css",
+    "static/js/main.c0da5cb7.chunk.js"
   ]
 }
