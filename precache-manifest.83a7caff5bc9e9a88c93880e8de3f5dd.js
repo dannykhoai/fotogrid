@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "742666b9cc444811f0002648586d9885",
+    "revision": "c16dd9a980fec841a674232a1653dea2",
     "url": "/fotogrid/index.html"
   },
   {
-    "revision": "8832c60512e5655cf2d2",
+    "revision": "5a5925feadca31fd6221",
     "url": "/fotogrid/static/css/main.e287170f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fotogrid/static/js/2.1fb53dad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8832c60512e5655cf2d2",
-    "url": "/fotogrid/static/js/main.c0da5cb7.chunk.js"
+    "revision": "5a5925feadca31fd6221",
+    "url": "/fotogrid/static/js/main.061e5c4b.chunk.js"
   },
   {
     "revision": "a355f2e3aa1ab911be00",
