@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fotogrid/static/css/main.e287170f.chunk.css",
-    "main.js": "/fotogrid/static/js/main.c0da5cb7.chunk.js",
-    "main.js.map": "/fotogrid/static/js/main.c0da5cb7.chunk.js.map",
+    "main.js": "/fotogrid/static/js/main.061e5c4b.chunk.js",
+    "main.js.map": "/fotogrid/static/js/main.061e5c4b.chunk.js.map",
     "runtime-main.js": "/fotogrid/static/js/runtime-main.a9eb4604.js",
     "runtime-main.js.map": "/fotogrid/static/js/runtime-main.a9eb4604.js.map",
     "static/js/2.1fb53dad.chunk.js": "/fotogrid/static/js/2.1fb53dad.chunk.js",
     "static/js/2.1fb53dad.chunk.js.map": "/fotogrid/static/js/2.1fb53dad.chunk.js.map",
     "index.html": "/fotogrid/index.html",
-    "precache-manifest.c07a5c9db5da310bb28c98e544d04f2a.js": "/fotogrid/precache-manifest.c07a5c9db5da310bb28c98e544d04f2a.js",
+    "precache-manifest.83a7caff5bc9e9a88c93880e8de3f5dd.js": "/fotogrid/precache-manifest.83a7caff5bc9e9a88c93880e8de3f5dd.js",
     "service-worker.js": "/fotogrid/service-worker.js",
     "static/css/main.e287170f.chunk.css.map": "/fotogrid/static/css/main.e287170f.chunk.css.map",
     "static/js/2.1fb53dad.chunk.js.LICENSE.txt": "/fotogrid/static/js/2.1fb53dad.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a9eb4604.js",
     "static/js/2.1fb53dad.chunk.js",
     "static/css/main.e287170f.chunk.css",
-    "static/js/main.c0da5cb7.chunk.js"
+    "static/js/main.061e5c4b.chunk.js"
   ]
 }
