@@ -11,4 +11,4 @@ Firebase takes care of backend process on the cloud: Photo storage, database, au
 Notice that only png or jpeg files are supported.
 
 How about trying to put your cat & dog photos to demo this?
-Link: dannykhoai.github.io/fotogrid
+[Link](dannykhoai.github.io/fotogrid)
