@@ -13,7 +13,7 @@ Visual effects are done by CSS markups and a React.js library Framer Motion .
 Firebase takes care of backend process on the cloud: Photo storage, database, authentication thanks to its superb speed and ease of integration.
 Notice that only png or jpeg files are supported.
 
-How about trying to put your cat & dog photos to demo this?
+How about trying to put your cat & dog photos to demo this:
 
-[Link](dannykhoai.github.io/fotogrid)
+LINK:
 dannykhoai.github.io/fotogrid
